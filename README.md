@@ -15,6 +15,12 @@ yarn serve
 yarn build
 ```
 
+### Access to the platform
+```
+user:prueba
+password:prueba
+```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
